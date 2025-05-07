@@ -56,10 +56,6 @@ Chatbot académico para apoyar a estudiantes con información institucional.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GiovanniAdb&show_icons=true&theme=dracula&locale=es&hide_border=false" height="150" alt="Estadísticas actuales"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniAdb&show_icons=true&theme=dracula&locale=es&hide_border=false&include_all_commits=true&count_private=true&hide=issues,contribs&custom_title=Stats%202024" height="150" alt="Estadísticas del año pasado"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniAdb&layout=compact&theme=dracula&langs_count=6&hide_border=false&custom_title=Lenguajes%20Más%20Usados" height="150" />
 </div>
 
